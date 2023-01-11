@@ -1,0 +1,11 @@
+* {
+    color: white;
+    background-color: black;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.heading_container {
+    display: flex;
+
+}
